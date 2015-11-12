@@ -1,0 +1,2 @@
+# waktu
+waktu mundur
